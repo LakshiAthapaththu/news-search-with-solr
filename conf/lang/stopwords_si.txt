@@ -1,0 +1,81 @@
+﻿ | From svn.tartarus.org/snowball/trunk/website/algorithms/russian/stop.txt
+ | This file is distributed under the BSD License.
+ | See http://snowball.tartarus.org/license.php
+ | Also see http://www.opensource.org/licenses/bsd-license.html
+ |  - Encoding was converted to UTF-8.
+ |  - This notice was added.
+ |
+ | NOTE: To use this file with StopFilterFactory, you must specify format="snowball"
+
+ | a russian stop word list. comments begin with vertical bar. each stop
+ | word is at the start of a line.
+
+ | this is a ranked list (commonest to rarest) of stopwords derived from
+ | a large text sample.
+
+ | letter `ё' is translated to `е'.
+
+බව
+වෙයි
+කරයි
+සහ
+තවත්
+හා
+වූ
+ක්
+දී
+කර
+කරන
+කෙරේ
+කළ
+අතර
+යුතුයි
+බවට
+ලෙස
+කල
+ගිය
+ගත්
+පත්
+ඇති
+කිරීම
+ක
+ඇතුළු
+දුන්
+වන
+ගැනීමට
+කරනවා
+යන
+හැටි
+කියා
+පුරා
+එයි
+සඳහා
+වේ
+වෙන්න
+ඒ
+සමඟ
+තබයි
+කින්
+වේ
+වු
+වෙන
+ලබා
+දෙන
+කිසිදු
+හෙළි
+ගෙන
+දේ
+ද
+ගත
+ගෙන්
+වලින්
+හැකි
+ඉටු
+ට
+පෙනී
+ගේ
+යි
+යුතු
+මේ
+අති
+වැනි
